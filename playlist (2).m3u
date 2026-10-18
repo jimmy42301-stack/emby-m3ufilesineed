@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sky Sports Main Event HD",Sky Sports Main Event HD
-https://dpny6.1234.uno/ukskysportsmainevent2/index.m3u8?token=49a8e8319d86653d9301d79fd8e85f37
+https://dpny6.1234.uno/ukskysportsmainevent2/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Premier League",Sky Sports Premier League
 http://209.127.117.210:6061/skysportspremierleague1/index.m3u8?token=96286128102c957b2e06b423a9132f57
 #EXTINF:-1 tvg-name="Premier Sports 1 HD",Premier Sports 1 HD
@@ -19,3 +19,6 @@ https://dpny1.1234.uno/SkySports_UK_1117/index.m3u8?token=39f7e01029d72af66dbe3d
 http://dpny5.1234.uno:6061/skysportspremierleague2/index.m3u8?token=a038060d2d557f0bb6c25342159d9573
 #EXTINF:-1 tvg-name="DAZN Combat HD",DAZN Combat HD
 https://dpny2.1234.uno/dazncombat/index.m3u8?token=f3a71b100ecbba8f33aea38e0b224d4d
+
+
+--JUST IN CASE, HERE IS THE TOKEN FOR MAIN EVENT; ?token=49a8e8319d86653d9301d79fd8e85f37
